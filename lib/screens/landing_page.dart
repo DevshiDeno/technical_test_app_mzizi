@@ -65,7 +65,7 @@ class _LandingPageState extends State<LandingPage> {
                               style: GoogleFonts.roboto(
                                 fontSize: 30,
                                 fontWeight: FontWeight.w400,
-                                color: Colors.white,
+                                color: Colors.black,
                               ),
                             ),
                           ),
