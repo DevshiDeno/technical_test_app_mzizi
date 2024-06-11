@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98275117481",
+    "project_id": "mzizi-app-technical-test",
+    "storage_bucket": "mzizi-app-technical-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98275117481:android:f44c6f0522474255915cb8",
+        "android_client_info": {
+          "package_name": "com.example.technical_test_app_mzizi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtcAQWEs4SQQdkgJt0g0Id12MZfPkFZVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
